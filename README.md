@@ -1,4 +1,4 @@
-# tryingOCR
+# Pytesseract Test - Trying OCR
 
 This is a simple example of code in python using pytesseract wrapper which is an OCR (Optical Character Recognition), i. e., a program dedicated to *read* the words in an image.
 
